@@ -1,0 +1,8 @@
+multiply = function (line 1, 9)
+left = parameter (line 1)
+right = parameter (line 1)
+get_num = function (line 4, 7, 8)
+prompt = parameter (line 4)
+float = function (line 5)
+input = function (line 5)
+print = function (line 10)

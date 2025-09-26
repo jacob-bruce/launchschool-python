@@ -1,0 +1,1 @@
+Nothing because the function returns before printing

@@ -1,0 +1,1 @@
+This is going to print 'bar' because print is going to reference the foo defined outside of the function. The foo defined within the function will not be accessible to print.

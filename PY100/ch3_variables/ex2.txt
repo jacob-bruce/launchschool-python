@@ -1,0 +1,9 @@
+1. index is idiomatic
+2. non-idiomatic 
+3. CatName is non-idiomatic because it uses uppercase letters
+4. lazy_dog is idiomatic
+5. quick_Fox is non-idiomatic because it uses uppercase letters
+7. 1stCharacter is illegal because it starts with a number
+8. operand2 is idiomatic
+9. BIG_NUMBER is non-idiomatic because it uses uppercase letters
+10. pi is non-idiomatic because it is not an ASCII character

@@ -1,0 +1,1 @@
+When we initialize a variable inside a function, its scope is limited to the function, which means we can only access foo within the function. So if you try to reference foo outside of the function, you will get an error related to foo not being defined.

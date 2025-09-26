@@ -1,0 +1,5 @@
+say is a function name
+print is a built-in function name
+input is a built-in function name
+upper and lower are method names
+max is a built-in function name

@@ -1,0 +1,1 @@
+It evaluates to True because Python compares strings it is evaluating them based on the order they appear and based on a lexicographical comparison (i.e. using the Unicode values, not the numeric values).

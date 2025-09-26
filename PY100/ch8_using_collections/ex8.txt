@@ -1,0 +1,6 @@
+text[21:35] creates a new (shorter) string which is why the index
+posiion of 'f' comes back as 8.
+
+text.rfind('f', 21, 35) looks at the whole string, but between the
+characters in the 21 and 35 positions, which is why it returns
+29.

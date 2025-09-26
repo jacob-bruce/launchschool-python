@@ -1,0 +1,5 @@
+42
+3
+2
+
+The function will use the default values for the second and third parameters.

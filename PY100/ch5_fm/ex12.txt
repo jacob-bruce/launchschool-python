@@ -1,0 +1,1 @@
+The function will provide an error because it expected three arguments.

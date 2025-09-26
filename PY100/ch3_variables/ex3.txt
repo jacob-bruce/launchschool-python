@@ -1,0 +1,8 @@
+1. non-idiomatic because not all caps
+2. non-idiomatic because not all caps
+3. non-idiomatic because not all caps
+4. idiomatic
+5. illegal because begins with number
+6. non-idiomatic because not all caps
+7. idiomatic
+8. non-idiomatic because not ASCII

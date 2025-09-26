@@ -1,0 +1,1 @@
+False, because Python takes into account capitalization.

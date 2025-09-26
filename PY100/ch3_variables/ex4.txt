@@ -1,0 +1,7 @@
+1. non-idiomatic because not camel case
+2. idiomatic
+3. non-idiomatic because not camel case
+4. illegal because begins with a number
+5. non-idiomatic because not camel case
+6. idiomatic
+7. non-idiomatic because not ASCII
