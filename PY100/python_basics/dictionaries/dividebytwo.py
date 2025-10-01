@@ -7,6 +7,6 @@ numbers = {
 numbers_list = []
 
 for number in numbers:
-    numbers_list.append(numbers[number]//2)
+    numbers_list.append(numbers[number] // 2)
 
 print(numbers_list)

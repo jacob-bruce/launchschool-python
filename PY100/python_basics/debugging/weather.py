@@ -14,3 +14,4 @@ predict_weather()
 
 # BUGS
 # Line 4: Should be Boolean values, not strings
+# Line 11: Function must be called 
